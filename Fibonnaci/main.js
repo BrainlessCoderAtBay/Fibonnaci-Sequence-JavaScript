@@ -1,5 +1,5 @@
 function FibonnaciSequence(){
-			//First two lines of the sequance
+    //First two lines of the sequance
     let fibonnaciNumbers = [0, 1];
     while (CurrentFibonnaciNumber != 48){
         const newRow = document.createElement("tr");
